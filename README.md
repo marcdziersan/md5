@@ -79,15 +79,6 @@ Beide liefern:
 1057d58584beec7a2f2b39e472f32719
 ```
 
----
-
-## 📁 Dateien
-
-- `md5_manual.php`: Die vollständige Implementierung in PHP ohne Hilfsfunktionen
-- `example.php`: Beispielcode zur Verwendung
-
----
-
 ## 🧠 Warum selbst bauen?
 
 - Lerneffekt: Verstehen, wie Hashing intern funktioniert
