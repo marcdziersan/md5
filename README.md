@@ -55,7 +55,7 @@ Diese Implementierung:
 ## 📦 Beispielverwendung
 
 ```php
-require_once 'md5_manual.php';
+require_once 'md5.php';
 
 $hasher = new MD5Hasher();
 $text = "Feuerwehr";
