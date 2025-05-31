@@ -1,9 +1,3 @@
-# 🔐 Eigene MD5-Implementierung in PHP (Bit für Bit, ohne `unpack()`)
-
-Diese Implementierung des MD5-Hashalgorithmus basiert vollständig auf reinem PHP ohne die Verwendung von eingebauten Funktionen wie `md5()`, `hash()` oder sogar `unpack()`.
-
----
-
 ## 📖 Was ist MD5?
 
 **MD5 (Message Digest Algorithm 5)** wurde 1991 von Ronald Rivest entwickelt und gehört zu den bekanntesten Hashfunktionen. Es erzeugt aus beliebig langen Eingaben eine **128-Bit (16 Byte) Hashsumme**, dargestellt als 32-stelliger Hexadezimalwert.
